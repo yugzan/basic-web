@@ -1,5 +1,5 @@
 {
-  "name": "demo-web",
+  "name": "basic-web",
   "version": "0.0.1",
   "description": "create a gulp develop environment.",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "none"
+    "url": "https://github.com/yugzan/basic-web.git"
   },
   "keywords": [
     "web",
